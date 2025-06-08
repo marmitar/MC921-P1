@@ -1,4 +1,4 @@
-# Lexer
+# Lexer - Compiler Construction (MC921)
 
 The objective of this assignment is to implement a scanner for the uC language.
 Further instructions can be seen in this
